@@ -1,5 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+
+:root {
+  font-size: 10px;
+}
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: Montserrat;
+}
+
+body {
+  width: 100vw;
+  background-color: #f8d629;
+}
+
+.lateral-padding {
+  padding-inline: 1rem;
 }
