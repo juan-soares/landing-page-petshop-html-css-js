@@ -4,10 +4,11 @@
   flex-direction: column;
   align-items: center;
   text-transform: uppercase;
+  font-weight: bolder;
 }
 
 .header__logo {
-  font-size: 3rem;
+  font-size: 3.5rem;
 }
 
 .header__navbar {
@@ -20,10 +21,11 @@
 }
 
 .header__navbar a {
-  padding: 1.5rem;
+  padding: 1.4rem;
   color: black;
   text-decoration: none;
   text-align: center;
+  border-radius: 30px;
 }
 
 .header__navbar a:hover {
@@ -50,9 +52,5 @@
     width: auto;
     flex-direction: row;
     border-bottom: none;
-  }
-
-  .header__navbar a {
-    border-radius: 30px;
   }
 }
