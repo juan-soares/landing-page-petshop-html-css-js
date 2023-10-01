@@ -1,13 +1,21 @@
 .main-content {
-  padding-block: 3rem;
   display: flex;
+  justify-content: space-between;
+  gap: 5rem;
   flex-direction: column;
   text-align: center;
 }
 
+.main-content__section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 3rem;
+}
+
 .main-content__title {
-  padding-block: 1.5rem;
-  margin-bottom: 4rem;
+  padding: 2rem;
+  margin-top: 2rem;
   font-size: 1.8rem;
   font-weight: bolder;
   background-color: #f1cb10fc;
@@ -15,7 +23,6 @@
 }
 
 .main-content__text {
-  padding-bottom: 4rem;
   font-size: 1.6rem;
 }
 
@@ -35,5 +42,17 @@
 
 .main-content__image {
   width: 100%;
-  margin-block: 4rem;
+}
+
+@media (min-width: 760px) {
+  .main-content {
+    flex-direction: row;
+    align-items: center;
+    height: calc(100vh - 98px - 13.33px);
+  }
+
+  .main-content__section {
+    max-width: 40%;
+    height: 100%;
+  }
 }
