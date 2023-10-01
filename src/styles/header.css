@@ -12,15 +12,15 @@
 
 .header__navbar {
   width: 100%;
-  padding-block: 1rem;
+  padding-block: 0.5rem;
   display: flex;
   flex-direction: column;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   border-bottom: 5px solid black;
 }
 
 .header__navbar a {
-  padding-block: 1rem;
+  padding: 1.5rem;
   color: black;
   text-decoration: none;
   text-align: center;
@@ -33,10 +33,26 @@
 
 .header__navbar a span {
   visibility: hidden;
-  margin-right: 1rem;
+  margin-right: 0.8rem;
 }
 
 .header__navbar a:hover span {
   visibility: visible;
 }
 
+@media (min-width: 760px) {
+  .header {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .header__navbar {
+    width: auto;
+    flex-direction: row;
+    border-bottom: none;
+  }
+
+  .header__navbar a {
+    border-radius: 30px;
+  }
+}

@@ -16,6 +16,8 @@ body {
   background-color: #f8d629;
 }
 
-.lateral-padding {
-  padding-inline: 1rem;
+@media (min-width: 760px) {
+  .lateral-padding {
+    padding-inline: 8rem;
+  }
 }
