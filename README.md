@@ -13,7 +13,7 @@
 
 ## Descrição
 
-<p>Landing page de apresentação de um petshop fictício, para prática de HTML, CSS e JavaScript.</p>
+<p>Landing page de apresentação de um petshop fictício, para prática de HTML, CSS e JavaScript, abordando conceitos como SEO, acessibilidade, responsividade, BEM e clean code.</p>
 
 ## Tecnologias
 
@@ -22,6 +22,7 @@
 ## Execução
 
 - `Passo 1`: Baixar o projeto.
+- `Passo 2`: Abrir o arquivo index.html em algum navegador.
 
 
 ## Autores
