@@ -10,7 +10,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 3rem;
+  gap: 2rem;
 }
 
 .main-content__title {
@@ -38,6 +38,7 @@
 
 .main-content__button:hover {
   color: #f8d629;
+  cursor: pointer;
 }
 
 .main-content__image {
@@ -48,7 +49,7 @@
   .main-content {
     flex-direction: row;
     align-items: center;
-    height: calc(100vh - 98px - 13.33px);
+    height: calc(100vh - 69.33px - 23.33px);
   }
 
   .main-content__section {
