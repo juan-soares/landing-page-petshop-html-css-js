@@ -1,6 +1,6 @@
 # 📌 TEMPLATE HTML / CSS / JS
 
-![Badge_Status](https://img.shields.io/badge/STATUS-ANDAMENTO-yellow)
+![Badge_Status](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 ![Badge_Versao](https://img.shields.io/badge/VERS%C3%83O-1.0-black)
 ![Badge_Data](https://img.shields.io/badge/DATA-SETEMBRO%2C2023-blue)
 
@@ -17,13 +17,12 @@
 
 ## Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original-wordmark.svg" width="60px" height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## Execução
 
 - `Passo 1`: Baixar o projeto.
-- `Passo 2`: Abrir o arquivo index.html em algum navegador.
-
+- `Passo 2`: Abrir o arquivo "index.html" em algum navegador.
 
 ## Autores
 
