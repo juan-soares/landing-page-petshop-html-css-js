@@ -1,4 +1,4 @@
-# 📌 TEMPLATE HTML / CSS / JS
+# 📌 LANDING PAGE - PETSHOP (HTML, CSS, JS)
 
 ![Badge_Status](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 ![Badge_Versao](https://img.shields.io/badge/VERS%C3%83O-1.0-black)
