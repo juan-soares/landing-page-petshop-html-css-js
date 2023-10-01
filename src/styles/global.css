@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
+@import "./header.css";
+@import "./main-content.css";
+@import "./footer.css";
+
 :root {
   font-size: 10px;
 }
