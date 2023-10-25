@@ -1,30 +1,36 @@
-# 📌 LANDING PAGE - PETSHOP (HTML, CSS, JS)
+# 📌 LANDING PAGE: PETSHOP (HTML / CSS / JS)
 
-![Badge_Status](https://img.shields.io/badge/STATUS-FINALIZADO-green)
-![Badge_Versao](https://img.shields.io/badge/VERS%C3%83O-1.0-black)
-![Badge_Data](https://img.shields.io/badge/DATA-SETEMBRO%2C2023-blue)
+![Badge_Status](https://img.shields.io/badge/STATUS-FINISHED-green)
+![Badge_Versao](https://img.shields.io/badge/VERSION-1.0-black)
+![Badge_Data](https://img.shields.io/badge/RELEASE-SEP,2023-blue)
 
-- 📑 [Descrição](#descrição)
-- 🔛 [Demo](#demo)
-- 💻 [Tecnologias](#tecnologias)
-- 🔨 [Funcionalidades](#funcionalidades)
-- 📋 [Execução](#execução)
-- :octocat: [Autores](#autores)
+## Table of contents
 
-## Descrição
+* 📑 [Description](#description)
+* 🔛 [Demo](#demo)
+* 💻 [Technologies](#technologies)
+* 🔨 [Features](#features)
+* 📋 [How to use](#how-to-use)
+* :octocat: [Authors](#authors)
 
-<p>Landing page de apresentação de um petshop fictício, para prática de HTML, CSS e JavaScript, abordando conceitos como SEO, acessibilidade, responsividade, BEM e clean code.</p>
+## Description
+Landing page of a fictional petshop, to practice HTML, CSS and JS concepts, such as selectors, responsive layout and DOM manipulation.
 
-## Tecnologias
+## Demo
+![](demo/demo.gif)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" height="60px"/>
+## Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/>
 
-## Execução
+## Features
+* BEM methodology,
+* Typing effect;
+* Responsive layout.
 
-- `Passo 1`: Baixar o projeto.
-- `Passo 2`: Abrir o arquivo "index.html" em algum navegador.
+## How to use
+- `Step 1`: Download the project's files.
+- `Step 2`: Execute the "index.html" file on any browser.
 
-## Autores
-
+## Authors
 | [<img src="https://avatars.githubusercontent.com/u/97527277" width=115><br><sub>Juan Carlos</sub>](https://github.com/juan-soaraes) |
-| :---------------------------------------------------------------------------------------------------------------------------------: |
+| :---: |
