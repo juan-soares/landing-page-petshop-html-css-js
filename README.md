@@ -1,4 +1,4 @@
-# 📌 LANDING PAGE: PETSHOP (HTML / CSS / JS)
+# 📌 LANDING PAGE: PETSHOP (HTML, CSS, JS)
 
 ![Badge_Status](https://img.shields.io/badge/STATUS-FINISHED-green)
 ![Badge_Versao](https://img.shields.io/badge/VERSION-1.0-black)
@@ -20,7 +20,7 @@ Landing page of a fictional petshop, to practice HTML, CSS and JS concepts, such
 ![](demo/demo.gif)
 
 ## Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" height="60px"/>
 
 ## Features
 * BEM methodology,
